@@ -38,11 +38,9 @@ nav{
 .mail{
     text-decoration: none;
     padding-top: 5vw;
-    padding-left: 10px;
     margin:auto;
     
 }
-
   .box{
     text-decoration: none;
     margin-top:10px;
@@ -76,5 +74,4 @@ body{
 .text {
     position: absolute;
     top: 0px;
-
 }
