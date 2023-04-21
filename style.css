@@ -15,9 +15,11 @@ a:hover{
 }
 
 ul{
-    margin-top: 200px;
+    margin-top: 300px;
     margin-left: 40vw;
     size: 20px;
+    font-size: 4vw;
+
 }
 
 ul li a:hover{
@@ -32,21 +34,21 @@ nav{
     font-size: 12vw;
     text-decoration: none;
     color:  #e7e7e7;
-
+    text-align: center;
 }
 
 .mail{
     text-decoration: none;
     padding-top: 5vw;
-    margin:auto;
+    text-align: center;
     
 }
   .box{
     text-decoration: none;
     margin-top:10px;
     border: 1px solid grey;
-    width: 100px;
-    padding: 2px 2px;
+    width: 18vw;
+    padding: 4px 3px;
     
   }
 
@@ -57,14 +59,13 @@ body{
 }
 
 .container{
-    align-items: center;
-    text-align: center;
     max-width: 100%;
     color:white;
 }
 .img{
     width: relative;
     height: 100%;   
+    list-style: inside;
 }
 .img img{
     width:100%;
